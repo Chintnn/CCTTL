@@ -119,7 +119,7 @@ cd /var/www/html
 * Create homepage file:
 
 ```bash id="step5b"
-echo "<h1>Hello from EC2 🚀</h1>" | sudo tee index.html
+echo "<h1>Hello from EC2</h1>" | sudo tee index.html
 ```
 
 ✔ This file becomes your website homepage
