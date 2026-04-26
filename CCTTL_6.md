@@ -358,8 +358,4 @@ Auto Scaling was successfully implemented.
 * Public IP changes for new instances
 * Terminated instances are **auto replaced**
 
----
 
-If you want next:
-👉 I can convert this into **PDF-style assignment format (with headings + diagrams)**
-👉 Or help you with **Assignment 7 (Load Balancer + Auto Scaling together)** 👍
